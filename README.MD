@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="prompts-ia/assets/preview.png"
+    src="main/assets/preview.png"
     width="400"  
   />
 </p>
