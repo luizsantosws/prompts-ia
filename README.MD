@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="main/assets/preview.png"
+    src="https://github.com/luizsantosws/prompts-ia/blob/main/assets/preview.png"
     width="400"  
   />
 </p>
