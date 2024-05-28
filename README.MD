@@ -24,43 +24,38 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ## 📄 Prompts e ferramentas
 
-
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 titulos impactantes sobre segurança cybernética - Diretivas                                                                                                                                                                                                    |
 | conteúdo | Faça um artigo para blog , mantendo o foco em segurança digital, listando os principais assuntos {REGRAS} Explique de uma maneira simples com uma linguagem para leigos. |
-
+|• Segurança digital||
+|• Phishing||
+|• Information gathering||
+|• Ambiente empresarial||
+|• Pesquisa academica||
+|• Contexto social||
+|• Mensagem Falsa||
+|• informações sensíveis||
+|• Vishing||
+|• Smishing||
+|• Ameaças||
+|• Vírus||
+|• Worm||
+|• Cavalo de Troia||
+|• Ransonware||
+|• Ameaças||
+|• serviços e dispositivos||
+|• Credenciais||
+|• Autenticação||
+|• Trabalho remoto||
+|• Nuvem||
+|• Políticas de leis||
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público, a pesquisa foi sobre:
-
-• Segurança digital;
-• Phishing;
-• Information gathering;
-• Ambiente empresarial;
-• Pesquisa academica;
-• Contexto social;
-• Mensagem Falsa;
-• informações sensíveis;
-• Vishing;
-• Smishing;
-• Ameaças;
-• Vírus;
-• Worm;
-• Cavalo de Troia;
-• Ransonware;
-• Ameaças;
-• serviços e dispositivos;
-• Credenciais;
-• Autenticação;
-• Trabalho remoto;
-• Nuvem;
-• Políticas de leis;
-
-
+- No léxica utilizamos o acervo público, a pesquisa foi sobre segurança;
 
 ## ✨ Features
 
@@ -84,7 +79,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src=" "
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspLuiz Santos<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/luizsantosws">
     GitHub</a>&nbsp;|&nbsp;
