@@ -30,28 +30,28 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 titulos impactantes sobre segurança cybernética - Diretivas                                                                                                                                                                                                    |
 | conteúdo | Faça um artigo para blog , mantendo o foco em segurança digital, listando os principais assuntos {REGRAS} Explique de uma maneira simples com uma linguagem para leigos. |
-|• Segurança digital||
-|• Phishing||
-|• Information gathering||
-|• Ambiente empresarial||
-|• Pesquisa academica||
-|• Contexto social||
-|• Mensagem Falsa||
-|• informações sensíveis||
-|• Vishing||
-|• Smishing||
-|• Ameaças||
-|• Vírus||
-|• Worm||
-|• Cavalo de Troia||
-|• Ransonware||
-|• Ameaças||
-|• serviços e dispositivos||
-|• Credenciais||
-|• Autenticação||
-|• Trabalho remoto||
-|• Nuvem||
-|• Políticas de leis||
+|• |Segurança Digital|
+|• |Phishing|
+|• |Information Gathering|
+|• |Ambiente Empresarial|
+|• |Pesquisa Acadêmica|
+|• |Contexto Social|
+|•|Mensagem Falsa|
+|• |informações Sensíveis|
+|• |Vishing|
+|• |Smishing|
+|• |Ameaças|
+|• |Vírus|
+|• |Worm|
+|• |Cavalo de Troia|
+|• |Ransonware|
+|• |Ameaças|
+|• |Serviços e Dispositivos|
+|• |Credenciais|
+|• |Autenticação|
+|• |Trabalho remoto|
+|• |Nuvem|
+|• |Políticas de leis|
 
 Lexica.art：
 
